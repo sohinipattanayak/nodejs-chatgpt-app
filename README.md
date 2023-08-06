@@ -1,4 +1,4 @@
-# Node.js CLI Tool for OpenAI API
+# Node.js App integration with OpenAI ChatGPT API
 
 This is a Node.js App that posts a predefined request to the OpenAI API, retrieves the response, and displays it on the console.
 
